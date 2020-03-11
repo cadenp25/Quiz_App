@@ -4,6 +4,5 @@
     <string name="red">red</string>
     <string name="blue">blue</string>
     <string name="green">green</string>
-    <string name="name_hint">Insert text</string>
-    <string name="color_hint">What is your favorite color?</string>
+    <string name="RGB">RGB Palette</string>
 </resources>
